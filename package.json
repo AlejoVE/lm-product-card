@@ -44,7 +44,7 @@
       "\\.(css|less|scss|sass)$": "identity-obj-proxy"
     }
   },
-  "name": "lm-product-card",
+  "name": "lame-product-card",
   "author": "Alejandro Montilla",
   "module": "dist/lm-product-card.esm.js",
   "size-limit": [
